@@ -1,4 +1,10 @@
 # Cuda_Path_planning_CPP
+
+<p align="center">
+<img src="images/sample1.png" width=70% height=70% 
+class="center">
+</p>
+
 Using cuda to accelerate multiple path planning algorithms in simple and environments with varying complexity
 
 Installation:
