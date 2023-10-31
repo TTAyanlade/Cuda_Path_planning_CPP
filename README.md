@@ -1,5 +1,5 @@
 # Cuda_Path_planning_CPP
-using cuda to accelerate multiple path planning algorithms in simple and environments with varying complexity
+Using cuda to accelerate multiple path planning algorithms in simple and environments with varying complexity
 
 Installation:
 Use the env file with conda env create --file CPP_env.yml
