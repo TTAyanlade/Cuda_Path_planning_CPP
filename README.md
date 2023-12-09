@@ -11,7 +11,7 @@ Installation:
 Use the env file with conda env create --file CPP_env.yml
 
 To Run, here is an example:
-$ python CPP_env.py --alg rrt_star --env complex
+$ python CPP.py --alg rrt_star --env complex
 
 
 Arguments:
